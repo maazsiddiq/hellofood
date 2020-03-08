@@ -1,0 +1,55 @@
+
+body {
+    background: #f2f2f2;
+    margin: 0;
+    padding: 0%;
+  }
+  .navbar-brand {
+    transform: translateX(-50%);
+    left: 50%;
+    position: absolute;
+  }
+  .logo{
+    height: 7rem; width: 20rem;
+  }
+        /*nav*/
+  .active{
+    color: black !important;
+  }
+  .active:hover{
+    color: red !important;
+  }
+  .active-drop{
+    color: black !important;
+  }
+  .active-drop:hover{
+    color: red !important;
+  }
+  .drop1{
+    color: black !important;
+  }
+  .drop1:hover{
+    color: white !important;
+    background: red !important;
+  }
+.desifood{
+    width: 100%;
+    height: 51vh;
+    text-align: center;
+    padding-top: 10%;
+    color: #f2f2f2;
+    background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url('desserts image/dessert food.jpg');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+  }
+.dessert-card{
+  width: 100%;
+  height: 70vh;
+}
+.text:hover{
+  color: red;
+}
+.cart:hover{
+  border: 1px solid red;
+}
