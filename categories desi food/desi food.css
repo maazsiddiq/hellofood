@@ -47,17 +47,29 @@ body {
   .desi-img{
     height: 40vh; width: 100%;
     }
-    .desi-img {
-      transition: 1s ease;
-      }
-      
-      .desi-img:hover {
-      border-radius:50%;
-      transition: 1s ease;
-      }    
+.card:hover{
+-webkit-box-shadow: 1px 9px 40px -12px rgba(0,0,0,0.35);
+-moz-box-shadow: 1px 9px 40px -12px rgba(0,0,0,0.35);
+box-shadow: 1px 9px 40px -12px rgba(0,0,0,0.35);
+}
 .color-text{
     text-align: center;
   }
    .color-text:hover{
     color: red !important;
    }
+/*footer*/
+.footer-img{
+  width: 9rem;
+  height: 2rem;
+}
+.footer-color{
+  color: #B40404 !important;
+}
+.footer-row{
+  background: rgba(0,0,0,0.3);
+  padding-left: 5%;
+  padding-right: 5%;
+  height: 35vh;
+  padding-top: 4%;
+}   

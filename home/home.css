@@ -44,27 +44,3 @@ body {
   background-size: 100% 100%;
   background-attachment: fixed;
 }
-.c-img{
-  height: 80vh; width: 100%;
-}
-.c-img:hover {
-  transform: scaleX(-1);
-}
-.c-tex{
-  text-align: center;
-}
-.c-tex:hover{
-  color: red !important;
-}
-.background-color{
-  width: 100%;
-  height: 70vh;
-  text-align: center;
-  background-repeat: no-repeat;
-  background-size: 100% 100%;
-  background-attachment: fixed;  
-}
-
-.c{
-    border: 3px solid green;
-}

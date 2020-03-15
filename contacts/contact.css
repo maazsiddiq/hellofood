@@ -60,16 +60,31 @@ body {
 .b-t-n{
     text-align: right;  
 }
-      /*col-4
-
-/*form / font icon*/
+  
+/*col-4   form / font icon*/
 .follow-us{
   color: rgba(0,0,0,0.5);
+  margin-right: 10px;
 }
 .follow-us:hover{
   color: red !important;
-  
 }
 .icon{
    color: red !important;
+   margin-right: 6px;
+}
+/*footer*/
+.footer-img{
+  width: 9rem;
+  height: 2rem;
+}
+.footer-color{
+  color: #B40404 !important;
+}
+.footer-row{
+  background: rgba(0,0,0,0.3);
+  padding-left: 5%;
+  padding-right: 5%;
+  height: 35vh;
+  padding-top: 4%;
 }

@@ -117,3 +117,18 @@ body {
   -ms-transform: scale(1);
   transform: scale(1);
 }
+/*footer*/
+.footer-img{
+  width: 9rem;
+  height: 2rem;
+}
+.footer-color{
+  color: #B40404 !important;
+}
+.footer-row{
+  background: rgba(0,0,0,0.3);
+  padding-left: 5%;
+  padding-right: 5%;
+  height: 35vh;
+  padding-top: 4%;
+}
