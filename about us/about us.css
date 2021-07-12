@@ -1,100 +1,102 @@
-.cont-ainer{
+.cont-ainer {
   padding-left: 10%;
   padding-right: 10%;
 }
 body {
-    background: #f2f2f2;
-    margin: 0;
-    padding: 0;
-  }
-  .navbar-brand {
-    transform: translateX(-50%);
-    left: 50%;
-    position: absolute;
-  }
-  .logo{
-    height: 7rem; width: 20rem;
-  }
-        /*nav*/
-  .active{
-    color: black !important;
-  }
-  .active:hover{
-    color: red !important;
-  }
-  .active-drop{
-    color: black !important;
-  }
-  .active-drop:hover{
-    color: red !important;
-  }
-  .drop1{
-    color: black !important;
-  }
-  .drop1:hover{
-    color: white !important;
-    background: red !important;
-  }
-.desifood{
-    width: 100%;
-    height: 51vh;
-    text-align: center;
-    padding-top: 10%;
-    color: #f2f2f2;
-    background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url('about us image/about-us1.jpg');
-    background-repeat: no-repeat;
-    background-size: 100% 100%;
-    background-attachment: fixed;
-  }
-  /*image*/
-.aboctus-img{
+  background: #f2f2f2;
+  margin: 0;
+  padding: 0;
+}
+.navbar-brand {
+  transform: translateX(-50%);
+  left: 50%;
+  position: absolute;
+}
+.logo {
+  height: 7rem;
+  width: 20rem;
+}
+/*nav*/
+.active {
+  color: black !important;
+}
+.active:hover {
+  color: red !important;
+}
+.active-drop {
+  color: black !important;
+}
+.active-drop:hover {
+  color: red !important;
+}
+.drop1 {
+  color: black !important;
+}
+.drop1:hover {
+  color: white !important;
+  background: red !important;
+}
+.desifood {
+  width: 100%;
+  height: 51vh;
+  text-align: center;
+  padding-top: 10%;
+  color: #f2f2f2;
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+    url("about us image/about-us1.jpg");
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  background-attachment: fixed;
+}
+/*image*/
+.aboctus-img {
   width: 100%;
   height: 100vh;
 }
 /*about us img*/
-.text-img{
+.text-img {
   text-align: center;
   padding-left: 45%;
   padding-right: 4%;
   color: black !important;
 }
-.color-text{
+.color-text {
   color: red !important;
 }
-.text-img2{
+.text-img2 {
   text-align: center;
   padding-left: 45%;
   padding-right: 4%;
-  color: rgba(0,0,0,0.5) !important;
+  color: rgba(0, 0, 0, 0.5) !important;
 }
 /*our story*/
-.story{
+.story {
   padding-top: 4%;
   text-align: center;
 }
-.story2{
+.story2 {
   padding-top: 1%;
   text-align: center;
-  color: rgba(0,0,0,0.5);
+  color: rgba(0, 0, 0, 0.5);
 }
 /* container about1*/
-.about-text{
+.about-text {
   padding-top: 14%;
   text-align: center;
 }
-.about-text2{
+.about-text2 {
   text-align: center;
-  color: rgba(0,0,0,0.3);
+  color: rgba(0, 0, 0, 0.3);
 }
 
-.about-image{
+.about-image {
   padding-top: 2%;
   text-align: center;
-  width: 100%;
-  height: 100%;
+  /* width: 100%;
+  height: 100%; */
 }
-  /* styling restaurants*/
-.restaurants{
+/* styling restaurants*/
+.restaurants {
   width: 100%;
   height: 90vh;
   text-align: center;
@@ -102,53 +104,53 @@ body {
   padding-left: 14%;
   padding-right: 14%;
   color: #f2f2f2;
-  background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url('about us image/restaurants-img.jpg');
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+    url("about us image/restaurants-img.jpg");
   background-repeat: no-repeat;
   background-size: 100% 100%;
   background-attachment: fixed;
 }
 /*text center meet our team*/
-.meet-our-team{
+.meet-our-team {
   text-align: center;
   padding-top: 5%;
 }
-.lorem-text{
+.lorem-text {
   text-align: center;
-  color: rgba(0,0,0,0.3);
+  color: rgba(0, 0, 0, 0.3);
 }
 /*card image*/
-.team-card{
+.team-card {
   width: 100%;
   height: 45vh;
 }
-.team-title{
-  text-align: center;
-  
-}
-.team-text{
-  text-align: center;
-  color: rgba(0,0,0,0.5);
-}
-.team-icon{
+.team-title {
   text-align: center;
 }
-.icon-{
+.team-text {
+  text-align: center;
+  color: rgba(0, 0, 0, 0.5);
+}
+.team-icon {
+  text-align: center;
+}
+.icon- {
   margin-right: 5%;
-  color: rgba(0,0,0,0.5); 
+  color: rgba(0, 0, 0, 0.5);
 }
-.icon-:hover{
+.icon-:hover {
   color: #f0000f;
 }
 /*footer*/
-.footer-img{
+.footer-img {
   width: 9rem;
   height: 2rem;
 }
-.footer-color{
-  color: #B40404 !important;
+.footer-color {
+  color: #b40404 !important;
 }
-.footer-row{
-  background: rgba(0,0,0,0.3);
+.footer-row {
+  background: rgba(0, 0, 0, 0.3);
   padding-left: 5%;
   padding-right: 5%;
   height: 35vh;
